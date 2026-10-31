@@ -9,7 +9,10 @@ die Ergebnisse deines griechischen Lieblingsvereins.
 1. Auf dem Fire TV die App **Downloader** aus dem Amazon Appstore installieren.
 2. Unter *Einstellungen → Mein Fire TV → Entwickleroptionen → Apps unbekannter Herkunft* den
    **Downloader** erlauben.
-3. Downloader öffnen, den Download-Code eingeben, **Installieren** wählen.
+3. Downloader öffnen, ins Adressfeld den Code **2826147** eingeben, **Los** drücken.
+4. Wenn der Download fertig ist, **Installieren** wählen. Danach kann die Datei gelöscht werden.
+
+Am Handy oder PC: https://aftv.news/2826147
 
 Updates kommen danach von selbst: Die App meldet sich mit einem Hinweis, wenn es eine neue Version gibt.
 
