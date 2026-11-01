@@ -1,8 +1,6 @@
-# DU BIST GRIECHE – TV-App
+# TV-App
 
-Die TV-App von [du-bist-grieche.de](https://du-bist-grieche.de) für Fire TV und Android TV:
-Namenstage, Feiertage, Themen, Quizze, Shop, das Spiel „Petros fliegt heim“ und – wenn gewünscht –
-die Ergebnisse deines griechischen Lieblingsvereins.
+Private App für Familie und Freunde (Fire TV / Android TV).
 
 ## Installieren (Fire TV)
 
@@ -12,9 +10,4 @@ die Ergebnisse deines griechischen Lieblingsvereins.
 3. Downloader öffnen, ins Adressfeld den Code **2826147** eingeben, **Los** drücken.
 4. Wenn der Download fertig ist, **Installieren** wählen. Danach kann die Datei gelöscht werden.
 
-Am Handy oder PC: https://aftv.news/2826147
-
-Updates kommen danach von selbst: Die App meldet sich mit einem Hinweis, wenn es eine neue Version gibt.
-
-Direkter Link zur aktuellen Version:
-https://github.com/danielelorenzo/dbg-tv/releases/latest/download/dbg-tv.apk
+Updates kommen danach von selbst: Die App meldet sich, wenn es eine neue Version gibt.
