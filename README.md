@@ -8,6 +8,8 @@ Private App für Familie und Freunde (Fire TV / Android TV).
 2. Unter *Einstellungen → Mein Fire TV → Entwickleroptionen → Apps unbekannter Herkunft* den
    **Downloader** erlauben.
 3. Downloader öffnen, ins Adressfeld den Code **2826147** eingeben, **Los** drücken.
+   Erscheint ein Fenster zu Cookies, **Alle ablehnen** wählen – sonst bleibt die Seite bei
+   „Redirecting“ stehen. Danach startet der Download von selbst.
 4. Wenn der Download fertig ist, **Installieren** wählen. Danach kann die Datei gelöscht werden.
 
 Updates kommen danach von selbst: Die App meldet sich, wenn es eine neue Version gibt.
